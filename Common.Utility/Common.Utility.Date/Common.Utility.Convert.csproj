@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Common.Utility.ConvertTo</AssemblyName>
+    <RootNamespace>Common.Utility.ConvertTo</RootNamespace>
+  </PropertyGroup>
+
+</Project>

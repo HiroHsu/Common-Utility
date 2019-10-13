@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Common.Utility/.vs/Common.Utility
+/Common.Utility/Common.Utility.Date/obj
