@@ -7,13 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utility.Convert", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utility.ConvertTests", "Common.Utility.ConvertTests\Common.Utility.ConvertTests.csproj", "{E9D21B3D-7BEF-4F5B-9ED3-F17720BC9241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utility.Difference", "Common.Utility.Difference\Common.Utility.Difference.csproj", "{5EE3CB23-A33E-46F6-B087-51C2DE10495E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utility.Difference", "Common.Utility.Difference\Common.Utility.Difference.csproj", "{5EE3CB23-A33E-46F6-B087-51C2DE10495E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utility.DifferenceTests", "Common.Utility.DifferenceTests\Common.Utility.DifferenceTests.csproj", "{173558C5-0B42-43C8-AB7A-5F10AE3CDA64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utility.DifferenceTests", "Common.Utility.DifferenceTests\Common.Utility.DifferenceTests.csproj", "{173558C5-0B42-43C8-AB7A-5F10AE3CDA64}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-UnitTest", "1-UnitTest", "{3802D1BD-BB45-4F6E-83A7-09018B0ED0EA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Utility", "0-Utility", "{B82734BF-DF14-4FFF-AA9B-C15378C764DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utility.Cryptography", "Common.Utility.Cryptography\Common.Utility.Cryptography.csproj", "{4109038A-AC33-4260-87FE-6ACAB0C51D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utility.CryptographyTests", "Common.Utility.CryptographyTests\Common.Utility.CryptographyTests.csproj", "{C72B328B-DFA3-4790-95AA-55AB3AEBD08B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +41,14 @@ Global
 		{173558C5-0B42-43C8-AB7A-5F10AE3CDA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173558C5-0B42-43C8-AB7A-5F10AE3CDA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173558C5-0B42-43C8-AB7A-5F10AE3CDA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4109038A-AC33-4260-87FE-6ACAB0C51D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4109038A-AC33-4260-87FE-6ACAB0C51D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4109038A-AC33-4260-87FE-6ACAB0C51D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4109038A-AC33-4260-87FE-6ACAB0C51D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72B328B-DFA3-4790-95AA-55AB3AEBD08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72B328B-DFA3-4790-95AA-55AB3AEBD08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72B328B-DFA3-4790-95AA-55AB3AEBD08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72B328B-DFA3-4790-95AA-55AB3AEBD08B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +58,7 @@ Global
 		{E9D21B3D-7BEF-4F5B-9ED3-F17720BC9241} = {3802D1BD-BB45-4F6E-83A7-09018B0ED0EA}
 		{5EE3CB23-A33E-46F6-B087-51C2DE10495E} = {B82734BF-DF14-4FFF-AA9B-C15378C764DC}
 		{173558C5-0B42-43C8-AB7A-5F10AE3CDA64} = {3802D1BD-BB45-4F6E-83A7-09018B0ED0EA}
+		{4109038A-AC33-4260-87FE-6ACAB0C51D41} = {B82734BF-DF14-4FFF-AA9B-C15378C764DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D9229D9E-EEA2-4D09-95D4-1B734AF4BA9E}

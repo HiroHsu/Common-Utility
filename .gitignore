@@ -13,3 +13,7 @@
 /Common.Utility/Common.Utility.Difference/obj
 /Common.Utility/Common.Utility.DifferenceTests/bin/Debug/netcoreapp3.0
 /Common.Utility/Common.Utility.DifferenceTests/obj
+/Common.Utility/Common.Utility.Cryptography/obj
+/Common.Utility/Common.Utility.Cryptography/bin/Debug/netstandard2.0
+/Common.Utility/Common.Utility.CryptographyTests/bin/Debug/netcoreapp3.0
+/Common.Utility/Common.Utility.CryptographyTests/obj
