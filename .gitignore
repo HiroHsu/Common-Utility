@@ -5,3 +5,7 @@
 /.vs
 /Common.Utility/.vs/Common.Utility
 /Common.Utility/Common.Utility.Date/obj
+/Common.Utility/Common.Utility.ConvertTests/bin/Debug/netcoreapp3.0
+/Common.Utility/Common.Utility.ConvertTests/obj/Debug/netcoreapp3.0
+/Common.Utility/Common.Utility.ConvertTests/obj
+/Common.Utility/Common.Utility.Date/bin/Debug/netstandard2.0

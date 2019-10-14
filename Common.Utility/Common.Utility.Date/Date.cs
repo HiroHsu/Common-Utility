@@ -31,7 +31,7 @@ namespace Common.Utility.ConvertTo
                 int.TryParse(tempDate, out rocDate);
                 if (rocDate != 0)
                 {
-                    tempDate.PadLeft(7, '0');
+                    tempDate = tempDate.PadLeft(7, '0');
                 }
                 else
                 {
